@@ -57,16 +57,13 @@ For Software:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[https://github.com/anittaritha29/overthinking/blob/main/Overthinker%E2%80%99s%20Assistant%E2%84%A2%20and%206%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%202025-08-09%2004-42-54.zip]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
-
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Anitta Ritha]: [Idea]
+- [Anamika Rajesh K]: [stylying]
+-[Anitta Ritha,Anamika Rajesh K] : [code]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
