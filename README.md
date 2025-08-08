@@ -61,9 +61,7 @@ For Software:
 *Explain what the video demonstrates*
 
 ## Team Contributions
-- [Anitta Ritha]: [Idea]
-- [Anamika Rajesh K]: [stylying]
--[Anitta Ritha,Anamika Rajesh K] : [code]
+-[Anitta Ritha,Anamika Rajesh K] : [Idea,Styling,Code]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
