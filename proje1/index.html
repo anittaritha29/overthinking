@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Overthinker’s Assistant™</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <div class="container">
+    <h1>Overthinker’s Assistant™</h1>
+    <p class="tagline">Helping you doubt every decision — thoroughly. 😵‍💫</p>
+
+    <div id="start-section">
+      <input type="text" id="decision-input" placeholder="Type your decision..." />
+      <button id="start-btn">Begin Overthinking</button>
+    </div>
+
+    <div id="question-section" class="hidden">
+      <div id="progress-bar-container">
+        <div id="progress-bar"></div>
+      </div>
+      <p id="question-text"></p>
+      <input type="text" id="answer-input" placeholder="Your thoughtful answer..." />
+      <button id="submit-btn">Submit</button>
+    </div>
+
+    <div id="end-section" class="hidden">
+      <h2>🎉 You’ve survived the overthinking!</h2>
+      <p>Still not sure? Good. That means it's working. 😈</p>
+      <button id="restart-btn">Try Another Decision</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
