@@ -49,7 +49,7 @@ For Software:
 ![Screenshot1](https://github.com/anittaritha29/overthinking/blob/main/Screenshot_9-8-2025_43346_127.0.0.1.jpeg)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2](https://github.com/anittaritha29/overthinking/blob/main/Screenshot_9-8-2025_43426_127.0.0.1.jpeg)
 *Add caption explaining what this shows*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
