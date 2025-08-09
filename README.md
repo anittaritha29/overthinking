@@ -47,13 +47,13 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](https://github.com/anittaritha29/overthinking/blob/main/Screenshot_9-8-2025_43346_127.0.0.1.jpeg)
-*Add caption explaining what this shows*
+"A playful tool that turns every decision into a full-blown overthinking session."
 
 ![Screenshot2](https://github.com/anittaritha29/overthinking/blob/main/Screenshot_9-8-2025_43426_127.0.0.1.jpeg)
-*Add caption explaining what this shows*
+"A cheeky prompt that makes you second-guess even your most confident answers."
 
 ![Screenshot3](https://github.com/anittaritha29/overthinking/blob/main/Screenshot_9-8-2025_43454_127.0.0.1.jpeg)
-*Add caption explaining what this shows*
+"A sneaky nudge that plants the seed of regret right before you decide."
 
 ### Project Demo
 # Video
